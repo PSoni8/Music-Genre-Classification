@@ -31,5 +31,3 @@ Genre classification can be of great utility to musical information retrieval sy
 Genre is intrinsically built on the similarities between pieces of the same genre and differences between pieces of different genres.</br>
 An automated genre recognition system would make it possible to classify and search large electronic music libraries.</br>
 In order to generate better recommendation, user generated rating & reviews, genre or books metadata is used.</br>
-### Audio feature extraction techniques
-### Reference Papers
